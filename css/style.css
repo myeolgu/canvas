@@ -1,0 +1,17 @@
+body {
+  margin:0;
+  padding: 0;
+  background: url(../image/background.jpg) top left / 100% no-repeat;
+  z-index: 99;
+}
+
+
+#confetti {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
