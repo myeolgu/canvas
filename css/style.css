@@ -17,10 +17,10 @@ body {
 }
 
 .border {
+  content: '';
   position: absolute;
   top: 0;
   height: 192px;
   width: 100%;
   border: 2px solid red;
-  z-index: 999;
 }
